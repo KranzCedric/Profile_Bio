@@ -1,11 +1,11 @@
 # Hi, I´m Zamki
 
-## I´m a computer sience student, here are a few things about me
+## I´m a computer science student, here are a few things about me
 
-- I´m 20 years old
-- I live in Germany
-- At the moment i am studying computer sience at the Hochschule Bochum
-- A big hobby of mine is software development, so this is a Git for a few of my fun projects
+- I'm 20 years old.
+- I live in Germany.
+- At the moment, I'm studying computer science at the Hochschule Bochum.
+- A big hobby of mine is software development, so this is a Git for a few of my fun projects.
 
 ## tools, languages etc.
 
