@@ -5,7 +5,7 @@
 - I'm 20 years old.
 - I live in Germany.
 - At the moment, I'm studying computer science at the Hochschule Bochum.
-- A big hobby of mine is software development, so this is a GitHub for a few of my fun projects.
+- A big hobby of mine is software development, so this is a GitHub for a few of my projects.
 
 ## tools, languages, etc.
 
