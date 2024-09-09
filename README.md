@@ -13,11 +13,11 @@
 
 - C, C++, C#
 - Java
-- Javascript
+- Javascript/Typescript
 - Python
 - PHP
 - html
-- CSS
+- CSS/SCSS
 - SQL
 
 ### Tools:
@@ -27,4 +27,7 @@
 - Visual Studio 2019
 - IntelliJ
 - MySQL
+- PostgreSQL
 - Unity
+- Angular
+- React
